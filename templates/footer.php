@@ -1,3 +1,5 @@
 <footer>
-    <p>&copy; <?php echo date('Y'); ?> Auction Site</p>
+    <p>&copy; 2024 Auction Site</p>
 </footer>
+</body>
+</html>
